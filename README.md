@@ -1,6 +1,7 @@
 <h2> Hi, I'm AussieKing!</h2>
 
-<p><em>Full-Stack Developer - <a href="https://www.adelaide.edu.au/"> University of Adelaide </a></em><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHB5a2dnaTd2dXdteHd0eHZicWMzdXQ4eWxra2ptdWp3aHVlOGs2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NB4W9AOvNfFXBfslNr/giphy.gif" alt="GIF showing Pudgy Penguin Developer" width="60"> 
+<p>
+  <em>Full-Stack Developer - <a href="https://www.adelaide.edu.au/"> University of Adelaide </a></em>
 </p>
 
 [![Twitter: AussieKing_eth](https://img.shields.io/twitter/follow/AussieKing_eth?style=social)](https://twitter.com/AussieKing_eth/)
