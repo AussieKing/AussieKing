@@ -1,7 +1,7 @@
 <h2> Hi, I'm AussieKing!</h2>
 
 <p>
-  <em>Full-Stack Developer - <a href="https://www.adelaide.edu.au/"> University of Adelaide </a></em>
+  <em>Full-Stack Developer & Junior Data Engineer - <a href="https://www.adelaide.edu.au/"> University of Adelaide </a></em>
 </p>
 
 [![Twitter: AussieKing_eth](https://img.shields.io/twitter/follow/AussieKing_eth?style=social)](https://twitter.com/AussieKing_eth/)
@@ -14,10 +14,10 @@
 const AussieKing = {
   pronouns: ["he", "him"],
   code: ["Javascript", "C#", "HTML", "CSS"],
-  tools: ["MongoDB", "Express", "React", "Node", "MySQL", "jQuery", ".NET", "Jest"],
+  tools: ["BigQuery", "Docker", "MongoDB", "Express", "React", "Node", "MySQL", "jQuery", ".NET", "Jest"],
   strengths: ["methodical", "result-driven", "people's person"],
   getInTouch: {
-                  email: "aussieking.eth@proton.me",
+                  email: "aussieking.eth@gmail.com",
                   basedIn: "Brisbane, AU",
                   bio: "10+ years as General Manager (250+ team members). Comfortable with fast-pace. Hungry to learn more. Senior Buyer. Comes with over 2 decades of people's skills.",
                   available: true
